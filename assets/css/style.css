@@ -1,0 +1,22 @@
+/*
+.w-25{width:10%!important}
+@media (min-width:768px){
+    .w-25{width:10%!important}
+}
+.navbar-toggler {
+    padding-left: 85%;
+    padding-top: -10% !important;
+}
+.h-25-nav{
+    height: 10%;
+}
+.navbar-brand{
+    width: auto;
+}*/
+::selection{
+    color:#fff;
+    background-color: #9aa0a6
+}
+.nav-link{
+    color: white !important;
+}
